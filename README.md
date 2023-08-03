@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Extremis7
-- 👀 I’m interested in furthering my education in Networks and Cybersecurity
-- 🌱 I’m currently learning Python, C#, Systems Admin, Network Security
-- 💞️ I’m looking for Cybersecurity opportunities in Brisbane, Australia. I'm currently in college.
+- 👋 Yo, I’m @Extremis7
+- 👀 I currently work in IT support, tutoring, and IT consulting.
+- 🌱 I’m am adept at Java,Dart, Python, C#, Systems Admin, Network Security.
+- 💞️ I’m looking for Cybersecurity opportunities in Brisbane, Australia.
 - 📫 How to reach me www.linkedin.com/in/brandonmfarmer
 
 <!---
