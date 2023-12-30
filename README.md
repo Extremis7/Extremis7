@@ -1,7 +1,7 @@
 - 👋 Yo, I’m @Extremis7
 - 👀 I currently work in IT support, tutoring, and IT consulting.
-- 🌱 I’m am adept at Java,Dart, Python, C#, Systems Admin, Network Security.
-- 💞️ I’m looking for Cybersecurity opportunities in Brisbane, Australia.
+- 🌱 I’m am adept at Bash, PowerShell, Python, C#, Java, Systems Admin, Network Security.
+- 💞️ I’m further honing my skills in Brisbane, Australia.
 - 📫 How to reach me www.linkedin.com/in/brandonmfarmer
 
 <!---
